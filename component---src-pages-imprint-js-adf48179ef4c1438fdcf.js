@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[683],{3598:function(t,e,n){n.r(e),n.d(e,{default:function(){return a}});var r=n(7294);n(3437);function a(){return r.createElement(r.Fragment,null)}}}]);
+//# sourceMappingURL=component---src-pages-imprint-js-adf48179ef4c1438fdcf.js.map
