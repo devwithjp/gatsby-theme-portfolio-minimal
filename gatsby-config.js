@@ -17,7 +17,7 @@ module.exports = {
         contentDirectory: "./content",
         blogSettings: {
           // If set, the blog integration is enabled
-          entityName: 'xxx', // Defines naming of posts throughout site (e.g. title of blog post listing)
+          entityName: 'My blogs', // Defines naming of posts throughout site (e.g. title of blog post listing)
           path: '/blog', // Defines the slug for the blog listing page
           usePathPrefixForArticles: true, // Default true (i.e. path will be /blog/first-article)
         },
